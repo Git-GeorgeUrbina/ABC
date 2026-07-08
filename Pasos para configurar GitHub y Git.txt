@@ -1,0 +1,18 @@
+
+1. Crear Repositorio en GitHub (Asignar un nombre al repositorio)
+2. Crear una carpeta en la pc (Sea de algún proyecto o de información)
+3. Con Visual Studio (Terminal > Nuevo Terminal) <<< o >>> en la misma carpeta clic derecho "open Git Bash here"
+
+git init
+git remote add origin https://github.com/Git-GeorgeUrbina/ABC.git
+
+-------------------------------
+git status
+git add .
+git commit -m "comentario de lo que se sube"
+git push origin master
+-------------------------------
+
+4. Para actualizar se debe ejecutar lo que se eneucnetra entre guiones
+
+
