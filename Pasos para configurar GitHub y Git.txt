@@ -13,6 +13,6 @@ git commit -m "comentario de lo que se sube"
 git push origin master
 -------------------------------
 
-4. Para actualizar se debe ejecutar lo que se eneucnetra entre guiones
+4. Para actualizar se debe ejecutar lo que se encuentra entre guiones
 
 
